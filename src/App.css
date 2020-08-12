@@ -36,3 +36,17 @@
     transform: rotate(360deg);
   }
 }
+
+body{
+  padding: 200px 600px;
+  text-align: justify;
+}
+
+button{
+  margin: 10px auto;
+}
+
+.todo{
+  margin:20px auto;
+  
+}
